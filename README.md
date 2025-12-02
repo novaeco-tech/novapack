@@ -1,4 +1,4 @@
 # NovaPack Sector
 
 Welcome to the `NovaPack` Vertical Sector.
-Reusable packaging systems, deposit models.
+Reusable packaging systems and deposit return schemes.
