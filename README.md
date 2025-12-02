@@ -44,7 +44,7 @@ graph TD
 
     subgraph "The Logistics Layer"
         API -->|Bin Full Alert| Logistics[NovaLogistics]
-        API -->|Update Status| Mat[NovaMaterial (Passport)]
+        API -->|Update Status| Mat["NovaMaterial (Passport)"]
     end
 ```
 
